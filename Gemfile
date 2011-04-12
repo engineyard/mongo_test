@@ -9,6 +9,7 @@ gem 'bson'
 gem 'bson_ext'
 gem 'mongo'
 gem 'mongoid'
+gem 'mysql2'
 
 # Use unicorn as the web server
 # gem 'unicorn'
